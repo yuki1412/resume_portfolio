@@ -7,4 +7,4 @@ Record on what I learned
 
 A technique to extract information/data from the Web/Internet.
 
-### By Using BeautySoup in Python
+### By Using BeauttifulSoup in Python
