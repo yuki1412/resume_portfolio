@@ -1,5 +1,5 @@
-# self_learning
-A record on what I learned
+# Resume Portfolio
+This is a record on what I had learned
 
 ## Web Scraping Technique
 
