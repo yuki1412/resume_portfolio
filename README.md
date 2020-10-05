@@ -21,5 +21,5 @@ With the help of BeautifulSoup library, it is easier to do HTML parsing. [Data E
  
 * **Clustering Model**
   * **K-Means Clustering**
-  * **Hierarchical Clustering** able to suggest number of suitable subgroups needed
-  * **DBSCAN** to detect outliers
+  * **Hierarchical Clustering :** Able to suggest number of suitable subgroups needed
+  * **DBSCAN :** To detect outliers
