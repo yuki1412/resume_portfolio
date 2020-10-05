@@ -23,3 +23,7 @@ With the help of BeautifulSoup library, it is easier to do HTML parsing. [Data E
   * **[K-Means Clustering](https://github.com/yuki1412/resume_portfolio/blob/master/Basic%20Machine%20Learning%20Algorithms/K-means_Clustering.ipynb)**
   * **[Hierarchical Clustering](https://github.com/yuki1412/resume_portfolio/blob/master/Basic%20Machine%20Learning%20Algorithms/Hierarchical%20Clustering.ipynb) :** Able to suggest number of suitable subgroups needed
   * **[DBSCAN](https://github.com/yuki1412/resume_portfolio/blob/master/Basic%20Machine%20Learning%20Algorithms/DBSCAN%20for%20outlier%20detection.ipynb) :** To detect outliers
+  
+* **Dimention Reduction Method** 
+  * **[Factors Analysis]()**
+  * **[Principal Component Analysis]()**
