@@ -27,3 +27,5 @@ With the help of BeautifulSoup library, it is easier to do HTML parsing. [Data E
 * **Dimention Reduction Method** 
   * **[Factors Analysis]()**
   * **[Principal Component Analysis]()**
+  
+* [**Association Rule** Mining Using Apriori Algorithm]()
