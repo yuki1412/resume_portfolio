@@ -26,7 +26,14 @@ To gain and understand the basic machine learning algorithms
   * **[DBSCAN](https://github.com/yuki1412/resume_portfolio/blob/master/Basic%20Machine%20Learning%20Algorithms/DBSCAN%20for%20outlier%20detection.ipynb) :** To detect outliers
   
 * **Dimention Reduction Method** 
-  * **[Factors Analysis]()**
-  * **[Principal Component Analysis]()**
+  * **[Factors Analysis](https://github.com/yuki1412/resume_portfolio/blob/master/Basic%20Machine%20Learning%20Algorithms/Factors%20Analysis.ipynb)**
+  * **[Principal Component Analysis](https://github.com/yuki1412/resume_portfolio/blob/master/Basic%20Machine%20Learning%20Algorithms/Principal%20Component%20Analysis(PCA).ipynb)**
   
-* [**Association Rule** Mining Using Apriori Algorithm]()
+* [**Association Rule**](https://github.com/yuki1412/resume_portfolio/blob/master/Basic%20Machine%20Learning%20Algorithms/Association%20Rule%20Mining%20Using%20Apriori%20Algorithm.ipynb) - Mining Using Apriori Algorithm
+* [**Single layer Neural Networks**](https://github.com/yuki1412/resume_portfolio/blob/master/Basic%20Machine%20Learning%20Algorithms/A%20Neural%20Network%20with%20a%20Perceptron.ipynb) - with Perceptron
+* [**K-Nearest Neighbour (KNN)**](https://github.com/yuki1412/resume_portfolio/blob/master/Basic%20Machine%20Learning%20Algorithms/K-Nearest%20Neighbor%20(KNN).ipynb)
+
+* [**Bayesian models**](https://github.com/yuki1412/resume_portfolio/blob/master/Basic%20Machine%20Learning%20Algorithms/Bayesian%20models%20with%20Naive%20Bayes.ipynb) - with Naive Bayes
+
+* [**Ensemble methods**](https://github.com/yuki1412/resume_portfolio/blob/master/Basic%20Machine%20Learning%20Algorithms/Ensemble%20methods%20with%20random%20forest.ipynb) - with random forest
+
