@@ -3,7 +3,7 @@ This is a record on what I had learned
 
 ## Text Mining
 
-### [Natural Language Processing]()
+### [Natural Language Processing](https://github.com/yuki1412/resume_portfolio/blob/master/Text_Mining.ipynb)
 
 ## Web Scraping Technique
 
