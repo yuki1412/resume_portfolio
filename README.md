@@ -1,6 +1,10 @@
 # Resume Portfolio
 This is a record on what I had learned
 
+## Text Mining
+
+### [Natural Language Processing]()
+
 ## Web Scraping Technique
 
 Web scraping which also known as web harvesting or web data extraction. It is a technique to extract information/data from the Web/Internet.
